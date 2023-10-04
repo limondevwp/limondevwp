@@ -1,6 +1,6 @@
 [![MasterHead](
 
-https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif
+https://miro.medium.com/v2/resize:fit:720/1*yw0TnheAGN-LPneDaTlaxw.gif
 
 )](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Limon Hossain</h1>
